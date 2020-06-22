@@ -5,7 +5,7 @@ Data completed: April, 2019
 
 **Project Name:** Finding Marketing Investment Opportunities - Yandex.Afisha User Analysis
 
-**Project description:** Hello this is my Business Analytics Project submission from Practicum by Yandex's Data Analyst program. You can find more about the Data Analyst by clicking [here.](https://practicum.yandex.com/data-analyst/)
+**Project description:** Hello this is my submission for the Business Analytics Project submission from Practicum by Yandex's Data Analyst program. You can find more about the Data Analyst by clicking [here.](https://practicum.yandex.com/data-analyst/)
 
 The following "hypothetical" report pertains to Yandex.Afisha users in the United States. Here I put to work my analytical thinking as well as my coding, and business analyst skills to help the company (Yandex.Afisha) in their marketing strategy by analyzing their user's behavior. 
 
