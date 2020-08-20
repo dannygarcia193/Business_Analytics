@@ -1,7 +1,7 @@
 ## Business Analytics Project
 
 E-MAIL: dannygarcia193@gmail.com         
-Data completed: April, 2019
+Data completed: April, 2020
 
 **Project Name:** Finding Marketing Investment Opportunities - Yandex.Afisha User Analysis
 
